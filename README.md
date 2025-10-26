@@ -93,5 +93,5 @@ If you find it helpful, feel free to reach out for collaboration or discussions!
 
 If you want to further personalize the "About the Author" section (for example, add your email or GitHub username, or a warm closing), let me know—I can tailor it to your style! 😊
 
-How to actually obtain large-scale XHS crawled data? Or, how to access internal (customs) data for cross-referencing?
+How to actually obtain large-scale XHS crawled data? Or, how to access internal (declaration) data for cross-referencing?
 Well… that’s a whole different story. 😉
